@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+  font-family: cal-sans-regular ;
+
+}
+p , a , button,li{
+  font-family: "Noto Sans", sans-serif;
+}
